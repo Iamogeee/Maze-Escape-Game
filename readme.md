@@ -29,3 +29,5 @@ A **dynamic 2D maze escape game** built using **JavaScript and Phaser.js**, wher
 
 Built with Phaser.js and JavaScript
 
+<img width="602" alt="image" src="https://github.com/user-attachments/assets/4dfebf58-a2b6-4200-88c1-5dc74e292fc7" />
+
